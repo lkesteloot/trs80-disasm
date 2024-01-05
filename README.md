@@ -1,3 +1,5 @@
+This project has been moved to https://github.com/lkesteloot/trs80
+
 # trs80-disasm
 
 A small TypeScript library that connects [z80-disasm](https://github.com/lkesteloot/z80-disasm)
